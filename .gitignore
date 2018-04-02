@@ -16,5 +16,4 @@ npm-debug.log
 .idea
 
 #ignore log files
-.log
-
+*.log
